@@ -1,8 +1,16 @@
-/*  Main Style Sheet   */
+/*  Main Style Sheet  */
+
+/*  Color Palette  */
+$primary-color: teal;
+$secondary-color: orange;
+
+
+
 body{
     background: teal;
 }
 
 h1{
+    color: $secondary-color;
     text-transform: uppercase;
 }
