@@ -1,16 +1,6 @@
-/*  Main Style Sheet  */
+/* Everything comes here */
 
-/*  Color Palette  */
-$primary-color: teal;
-$secondary-color: orange;
-
-
-
-body{
-    background: teal;
-}
-
-h1{
-    color: $secondary-color;
-    text-transform: uppercase;
-}
+@import "global";
+@import "grid";
+@import "typeography";
+@import "video";
