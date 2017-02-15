@@ -1,6 +1,6 @@
-# Content Priority Outline
+# Big Hero 6
 
-1. Item 1
-2. Item 2
-3. Item 3
+1. Summary
+2. Purchase
+3. Review
 4. etc. 
