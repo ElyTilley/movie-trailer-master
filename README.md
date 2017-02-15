@@ -1,7 +1,6 @@
-# Big Hero 6
+# Content Priority Outline
 
-## content Priority Checklist
-
-1. Trailer
-2. Title
-3. 
+1. Item 1
+2. Item 2
+3. Item 3
+4. etc. 
